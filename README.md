@@ -1,5 +1,5 @@
 # Simple_Maps-6.009_Project
- Shows you the shortest and the fastest path to a given destination from a starting point. All the relevant code is in lab.py
+ Shows you the shortest and the fastest path to a given destination from a starting point. All the relevant code is in lab.py.
  Unfortunately, the entirety of the Cambridge map was too big to be uploaded to github. 
  
  ## Visualizing the Code
